@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942783896824",
+    "project_id": "dumyy-6f4ef",
+    "storage_bucket": "dumyy-6f4ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942783896824:android:4c4e7e5191ef776e3daf0d",
+        "android_client_info": {
+          "package_name": "com.yogba.dumyy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE2pcWoRCFcolGI5iF_gRl4xN9-Ukc1rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
